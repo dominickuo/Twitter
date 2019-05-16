@@ -8,6 +8,7 @@
   "cursor": true,
   "ime_default_softkey_bar": true,
   "default_locale": "en-US",
+  "priority": "high",
   "icons": {
     "56": "https://dominickuo.github.io/Twitter/128.png",
     "128": "https://dominickuo.github.io/Twitter/128.png" 
